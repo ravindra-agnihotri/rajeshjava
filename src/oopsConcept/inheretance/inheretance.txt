@@ -1,0 +1,6 @@
+inheretance -- extending a class so that i can use those data members without reference
+
+single- 1 ent 2
+multilevel- 1 ext 2 ext 3
+multiple - 1 ext 2 3 ext 2 ( not allowed in java)
+hybrid -
